@@ -1,5 +1,5 @@
 # Ticket-workflow-system
 
-Clone Repo
-npm i
-nodemon server.js
+Step 1 = Clone Repo
+Step 2 = npm i
+Step 3 = nodemon server.js
